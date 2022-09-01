@@ -1,16 +1,6 @@
-# todo_list
+# ToDo List App
+## Simple ToDo List App made with Flutter using Provider.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20220901-143453](https://user-images.githubusercontent.com/58918060/187917336-a5d4b91c-ddfa-4f61-8990-abf809c51090.png)
+![Screenshot_20220901-143604](https://user-images.githubusercontent.com/58918060/187917347-c9227fcd-3055-4f70-aed1-8ce3d04a2bad.png)
